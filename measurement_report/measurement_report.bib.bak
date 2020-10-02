@@ -1,0 +1,13 @@
+% Encoding: UTF-8
+
+@Article{zimmer16,
+  author   = {Oliver Zimmer},
+  title    = {Multi-mirror imaging optics for low-loss transport of divergent neutron beams and tailored wavelength spectra},
+  journal  = {arXiv},
+  year     = {2016},
+  month    = {November},
+  file     = {:Zimmer_Multi-mirror_arXiv_1611.07353.pdf:PDF},
+  keywords = {neutron optics, supermirror, bandpass mirror, cold neutrons, neutron EDM},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
