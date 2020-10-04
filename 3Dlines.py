@@ -1,8 +1,10 @@
 ################################### 3Dplot #################################################
-%matplotlib qt
+#%matplotlib qt
 from nicosload import read_nicos_file,read_pad_file
 import matplotlib.ticker as plticker
 from matplotlib import cm
+import numpy as np
+import matplotlib.pyplot as plt
 dtx_vals = [k for k in range(10,260,30)]+[400,600]
 sth_vals = np.linspace(-0.2,-1.8,81)
 
